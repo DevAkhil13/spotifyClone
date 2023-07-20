@@ -1,0 +1,58 @@
+.bgr {
+  background-color: #1e1e1e;
+  width: -webkit-fill-available;
+  height: 647px;
+}
+.headx {
+  width: -webkit-fill-available;
+  justify-content: space-between;
+  flex-direction: row;
+}
+button {
+  font-size: 13px;
+  height: 35px;
+  padding: 3px 20px;
+}
+.artist {
+  font-size: 13px;
+}
+.user {
+  height: 38px;
+  width: 10px;
+}
+.sys {
+  margin-left: -12px;
+}
+.ar {
+  background-color: #131313;
+}
+.heightx {
+  height: 50px;
+}
+.brx {
+  border: 20px transparent;
+  border-radius: 5px;
+}
+.imgcard {
+  width: 10rem;
+}
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: #1e1e1e;
+  border-radius: 6px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.26);
+  border-radius: 4px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

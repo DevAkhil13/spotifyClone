@@ -1,0 +1,13 @@
+.black {
+  background-color: black;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+button {
+  font-size: 13px;
+  border: none;
+}
+.blck {
+  background-color: black;
+}

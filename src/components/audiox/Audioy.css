@@ -1,0 +1,48 @@
+.audiobtn {
+  padding: 0px;
+  padding-top: 3px;
+  text-align: center;
+  width: 33px;
+  height: 33px;
+}
+
+.mediaplayer {
+  width: -webkit-fill-available;
+  margin: auto;
+  justify-content: center;
+}
+.songdetails {
+  width: 600px;
+}
+.playbtns {
+  width: 200px;
+  height: 50px;
+}
+#pause {
+  display: none;
+}
+#play {
+  display: block;
+}
+.imgx {
+  width: 60px;
+  height: 60px;
+}
+.progress-container {
+  position: relative;
+  background: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: auto;
+  margin-top: 8px;
+  height: 4px;
+  width: 450px;
+}
+.progressx {
+  position: relative;
+  background: #24b65c;
+  height: 4px;
+  width: 50%;
+  border-radius: 5px;
+  transition: width 0.1s linear;
+}

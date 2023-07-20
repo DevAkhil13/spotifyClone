@@ -1,0 +1,10 @@
+.trackimage {
+  height: 45px;
+  width: 45px;
+}
+.track {
+  transition: 0.5s;
+}
+.track:hover {
+  background-color: #555;
+}
